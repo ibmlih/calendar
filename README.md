@@ -22,3 +22,4 @@ If `Series` and `Count` are used for an appointment, `Class` must be set to 1, e
 `appts.csv` file is provided as an example.
 
 ### Demo
+![alt text](https://github.com/ibmlih/calendar/blob/master/demo.png)
